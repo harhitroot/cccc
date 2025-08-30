@@ -1,0 +1,120 @@
+i thought their is another probeml for these error 🔗 Connection error detected, script will retry automatically
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:47)
+    at MTProtoSender._connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:263:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender.connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:151:17)
+    at async TelegramClient._connectSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:221:17)
+    at async TelegramClient._borrowExportedSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:272:22)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:47)
+    at MTProtoSender._connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:263:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender.connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:151:17)
+    at async TelegramClient._connectSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:221:17)
+    at async TelegramClient._borrowExportedSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:272:22)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:47)
+    at MTProtoSender._connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:263:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender.connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:151:17)
+    at async TelegramClient._connectSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:221:17)
+    at async TelegramClient._borrowExportedSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:272:22)
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:47)
+    at MTProtoSender._connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:263:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender.connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:151:17)
+    at async TelegramClient._connectSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:221:17)
+    at async TelegramClient._borrowExportedSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:272:22)
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:47)
+    at MTProtoSender._connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:263:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender.connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:151:17)
+    at async TelegramClient._connectSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:221:17)
+    at async TelegramClient._borrowExportedSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:272:22)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:47)
+    at MTProtoSender._connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:263:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender.connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:151:17)
+    at async TelegramClient._connectSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:221:17)
+    at async TelegramClient._borrowExportedSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:272:22)
+🔗 Connection error detected, script will retry automatically
+CLI Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+
+

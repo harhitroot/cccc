@@ -1,0 +1,95 @@
+hj, [30-08-2025 10:26 PM]
+❌ Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+
+hj, [30-08-2025 10:26 PM]
+sender already has some hanging states. reconnecting
+
+hj, [30-08-2025 10:26 PM]
+[2025-08-30T16:56:00.432] [WARN] - [Connection closed while receiving data]
+
+hj, [30-08-2025 10:26 PM]
+❌ Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+
+hj, [30-08-2025 10:26 PM]
+⏳ Processing... Downloads continuing in background.
+
+hj, [30-08-2025 10:26 PM]
+sender already has some hanging states. reconnecting
+
+hj, [30-08-2025 10:26 PM]
+[2025-08-30T16:56:30.943] [WARN] - [[Reconnect] Closing current connection...]
+
+hj, [30-08-2025 10:26 PM]
+[2025-08-30T16:56:30.944] [WARN] - [Connection closed while receiving data]
+
+hj, [30-08-2025 10:26 PM]
+❌ Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+
+hj, [30-08-2025 10:27 PM]
+[2025-08-30T16:56:31.160] [WARN] - [Connection closed while receiving data]
+
+hj, [30-08-2025 10:27 PM]
+❌ Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:47)
+    at MTProtoSender._connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:263:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender.connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:151:17)
+    at async TelegramClient._connectSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:221:17)
+    at async TelegramClient._borrowExportedSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:272:22)
+
+hj, [30-08-2025 10:27 PM]
+[2025-08-30T16:56:32.161] [WARN] - [[Reconnect] Closing current connection...]
+
+hj, [30-08-2025 10:27 PM]
+[2025-08-30T16:56:32.161] [WARN] - [Connection closed while receiving data]
+
+hj, [30-08-2025 10:27 PM]
+❌ Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+
+hj, [30-08-2025 10:27 PM]
+sender already has some hanging states. reconnecting
+
+hj, [30-08-2025 10:27 PM]
+[2025-08-30T16:57:01.161] [WARN] - [[Reconnect] Closing current connection...]
+
+hj, [30-08-2025 10:27 PM]
+[2025-08-30T16:57:01.162] [WARN] - [Connection closed while receiving data]
+
+hj, [30-08-2025 10:27 PM]
+❌ Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)
+
+hj, [30-08-2025 10:27 PM]
+❌ Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:47)
+    at MTProtoSender._connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:263:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MTProtoSender.connect (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:151:17)
+    at async TelegramClient._connectSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:221:17)
+    at async TelegramClient._borrowExportedSender (/home/runner/workspace/java/node_modules/telegram/client/telegramBaseClient.js:272:22)
+
+hj, [30-08-2025 10:27 PM]
+[2025-08-30T16:57:02.386] [WARN] - [[Reconnect] Closing current connection...]
+
+hj, [30-08-2025 10:28 PM]
+[2025-08-30T16:57:02.387] [WARN] - [Connection closed while receiving data]
+
+hj, [30-08-2025 10:28 PM]
+❌ Error: Error: Not connected
+    at ConnectionTCPFull.recv (/home/runner/workspace/java/node_modules/telegram/network/connection/Connection.js:71:15)
+    at async MTProtoSender._recvLoop (/home/runner/workspace/java/node_modules/telegram/network/MTProtoSender.js:373:24)

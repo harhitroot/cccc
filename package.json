@@ -1,0 +1,17 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "A Telegram bot that integrates with an existing Node.js Telegram media script, providing CLI functionality through a bot chat interface with enhanced spam prevention, speed monitoring, and error handling.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "telegraf": "^4.16.3"
+  }
+}
